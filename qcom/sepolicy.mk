@@ -1,6 +1,6 @@
 #
 # This policy configuration will be used by all qcom products
-# that inherit from Acme
+# that inherit from Csc
 #
 
 ifeq ($(TARGET_COPY_OUT_VENDOR), vendor)

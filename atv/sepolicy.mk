@@ -1,6 +1,6 @@
 #
 # This policy configuration will be used by atv products that
-# inherit from Acme
+# inherit from Csc
 #
 
 ifneq ($(TARGET_USES_PREBUILT_VENDOR_SEPOLICY), true)
